@@ -8,5 +8,6 @@ for i in range(2, 10):
         mx_2, mx_1 = mx_1, mass[i]
     elif mass[i] > mx_2 and mass[i] != mx_1:
         mx_2 = mass[i]
-print(mass)
-print(mx_2)
+# print(mass)
+# print(mx_2)
+print("Hello")
